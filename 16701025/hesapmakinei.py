@@ -1,0 +1,10 @@
+sayi1 = float(input("Birinci sayiyi giriniz: "))
+sayi2 = float(input("Ikinci sayiyi giriniz: "))
+
+print()
+print("------------------------------")
+print("Toplama Sonucu :",sayi1+sayi2)
+print("Cikarma sonucu :",sayi1-sayi2)
+print("Carpim  sonucu :",sayi1+sayi2)
+print("Bolme   sonucu :",sayi1+sayi2)
+print("------------------------------")
